@@ -1,14 +1,5 @@
-/* *** Этот код внесен by Alex-Smil *** */
-const userName = 'Alex Smile';
-console.log(`Hello ${userName}`);
-/* ************************************ */
+// commit 1 from mac
+// commit 2 from mac
 
-/* *** Этот код внесен by alex-ismailov *** */
-const userName2 = 'Alex2 Smile2';
-console.log(`Hello2 ${userName2}`);
-/* ************************************ */
-
-/* *** Этот код внесен by alex-ismailov *** */
-const userName3 = 'Alex2 Smile3';
-console.log(`Hello3 ${userName3}`);
-/* ************************************ */
+// commit 3 from toshiba
+// commit 4 from toshiba
